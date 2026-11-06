@@ -106,14 +106,19 @@ The largest error is about 49 lbs. The model pulls predictions toward the middle
 
 ---
 
-## Contact Information
+## Contact Information ✉️
 
-**Melissa Slawsky**
-[Add your LinkedIn / email / portfolio links here]
+For inquiries about this analysis:
+
+- [LinkedIn Profile](https://www.linkedin.com/in/melissaslawsky/)
+- [Client Results](https://melissaslawsky.com/portfolio/)
+- [Tableau Portfolio](https://public.tableau.com/app/profile/melissa.slawsky1925/vizzes)
+- [Email](mailto:melissa@melissaslawsky.com)
+
 
 ---
 
-## Disclaimer
+## Disclaimer 📝
 
 This project was completed as part of the [Udacity Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) program. The Linnerud dataset is publicly available through scikit-learn, and the exercise structure was provided by Udacity. All analysis, interpretation, and documentation are my own.
 
