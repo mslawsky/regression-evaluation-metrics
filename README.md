@@ -17,7 +17,7 @@ A linear regression model was trained on all three exercise features to predict 
 - **Root Mean Squared Error (RMSE):** the square root of MSE, in the target's original units (lbs)
 - **R² (coefficient of determination):** the proportion of variance in weight explained by the model
 
-![Situps vs. Weight](scatterplot.png)
+![Situps vs. Weight](Scatterplot.png)
 
 ---
 
